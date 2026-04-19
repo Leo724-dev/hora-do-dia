@@ -29,6 +29,7 @@ section{
 .mensagem{
     text-align: center;
     margin-bottom: 15px;
+    font-weight: bold;
 }
 
 #imagem{
@@ -52,4 +53,5 @@ footer p{
 
 span{
     font-weight: bold;
+    font-style: italic;
 }
