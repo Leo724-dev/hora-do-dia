@@ -55,3 +55,24 @@ span{
     font-weight: bold;
     font-style: italic;
 }
+
+@media screen and (max-width: 600px){
+    body{
+        margin-top: 125px;
+    }
+
+
+    header h1{
+        font-size: 35px;
+    }
+
+
+    section{
+        width: 100%;
+        border-radius: 0;
+    }
+
+    div p{
+        font-size: 25px;
+    }
+}
